@@ -1,0 +1,161 @@
+{
+  "main": {
+    "id": "393343821f50fab3",
+    "type": "split",
+    "children": [
+      {
+        "id": "8c5c2068f943ccbe",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "5a986949976bc27f",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "686f0ff533cfe9a2",
+    "type": "split",
+    "children": [
+      {
+        "id": "55662432eb5aa9df",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e7fc2dc484baa9f0",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "1b615a40327bacea",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "085a74a1ae99aa07",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "f4063261c3378c24",
+    "type": "split",
+    "children": [
+      {
+        "id": "482ad081fa2b8e8e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "7008d4466d97acb4",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "1978a663f1f8c73a",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "52438b60d892c8f5",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "b5b795b0212795f7",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "5a986949976bc27f",
+  "lastOpenFiles": [
+    "2 - Concept & Design/2 - Concept Art/world/technology/Untitled.canvas",
+    "2 - Concept & Design/2 - Concept Art/world/technology/objects",
+    "2 - Concept & Design/2 - Concept Art/world/technology/machines",
+    "2 - Concept & Design/2 - Concept Art/world/technology/buildings",
+    "2 - Concept & Design/2 - Concept Art/world/technology/weapons",
+    "2 - Concept & Design/2 - Concept Art/world/technology/vehicles",
+    "2 - Concept & Design/Concept.md",
+    "2 - Concept & Design/2 - Concept Art/world/technology",
+    "2 - Concept & Design/1 - Screenwriting/world/technology",
+    "2 - Concept & Design/1 - Screenwriting/world/religion",
+    "2 - Concept & Design/1 - Screenwriting/world/economy",
+    "2 - Concept & Design/1 - Screenwriting/world/fauna",
+    "2 - Concept & Design/1 - Screenwriting/Story Concept.md",
+    "1 - Brain Storming & Mind Map/Ideas.md",
+    "6 - Licensing & Distribution/Licensing.md",
+    "6 - Licensing & Distribution/Distribution.md",
+    "Welcome.md"
+  ]
+}
